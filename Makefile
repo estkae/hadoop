@@ -1,5 +1,5 @@
 
-REPOSITORY=cybermaggedon/hadoop
+REPOSITORY=estkae/hadoop
 VERSION=$(shell git describe | sed 's/^v//')
 HADOOP_VERSION=3.1.1
 
